@@ -106,3 +106,12 @@ See [LICENSE](LICENSE)
 ( Helium Fusion)
 
 (2/1H+3/2He→4/3He+1/1H+18.3MeV).
+
+--StartSwitch("-'1*");
+    --End("*,-'1*);
+** seqence: "*1*123*"
+## Lï17īD D5 F7ßîœñ: " fusia energy Release ½MaVa²+½MbV²/b=ᐛD-D-fusia carrys 75% energy,
+Bio-metric: PnPoe-mgh/kT
+<=∞=><∞>
+[FirebaseApp.AUTH()
+[getauth()Firebaseapp][authdomain]measure ID
