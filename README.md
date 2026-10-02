@@ -89,3 +89,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to contribute
        ## ALPHA-CENTARI
 
 See [LICENSE](LICENSE)
+
+## Hydrogen Fusion Reaction: 
+2/1H+2/1H→3/2He+1/0n+3.27MeV.
+ 
+## Deutirium Fusion: 2/1H+2/1H→3/1H+1/1J+4.03MeV.
+
+## Tritium Fusion: 2/1H+3/1H→4/3He+1/1n+17.59MeV.
+
+## Helium Fusion: 2/1H+3/2He→4/3He+1/1H+18.3MeV.
