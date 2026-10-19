@@ -78,16 +78,15 @@ Flags:
 
 Use "fireactions [command] --help" for more information about a command.
 ```
-
 See the [User Guide](https://fireactions.io/latest/) for installation and configuration instructions.
 
 > ## Contributing
 
 > ** See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to contribute to Fireactions.
 
-> ## License Yeshua Terms 
+"" ## License Yeshua Terms 
        
-> ## ALPHA-CENTARI
+``` ## ALPHA-CENTARI
 
 > See [LICENSE](LICENSE)
 **
