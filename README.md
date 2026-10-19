@@ -115,3 +115,7 @@ Bio-metric: PnPoe-mgh/kT
 <=∞=><∞>
 [FirebaseApp.AUTH()
 [getauth()Firebaseapp][authdomain]measure ID
+
+<"ARK-CIRCLE:("400("100")"400">,
+["Z⁰ = = Z¹"]<q is the Energy Of A Photon: "E=hf"
+
