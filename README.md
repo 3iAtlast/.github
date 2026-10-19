@@ -107,15 +107,24 @@ See [LICENSE](LICENSE)
 
 (2/1H+3/2He→4/3He+1/1H+18.3MeV).
 
---StartSwitch("-'1*");
-    --End("*,-'1*);
-** seqence: "*1*123*"
-## Lï17īD D5 F7ßîœñ: " fusia energy Release ½MaVa²+½MbV²/b=ᐛD-D-fusia carrys 75% energy,
-Bio-metric: PnPoe-mgh/kT
-<=∞=><∞>
-[FirebaseApp.AUTH()
-[getauth()Firebaseapp][authdomain]measure ID
+ --StartSwitch("-'1*");
+    
+ --End("*,-'1*);
 
-<"ARK-CIRCLE:("400("100")"400">,
-["Z⁰ = = Z¹"]<q is the Energy Of A Photon: "E=hf"
+ ** seqence: "*1*123*"
+
+ ## Lï17īD D5 F7ßîœñ: "fusia energy Release ½MaVa²+½MbV²/b=ᐛD-D-fusia carrys 75% energy,
+Bio-metric: PnPoe-mgh/kT";
+
+ == <=∞=><∞>
+
+ •• [FirebaseApp.AUTH()
+
+ ** [getauth()Firebaseapp][authdomain]measure ID
+
+ ## <"ARK-CIRCLE:("400("100")"400">,
+
+ ## "["Z⁰ = = Z¹"]"; "(f)" "Is Freqency", "(Y)" "Energy Of A Photon".
+
+## "<q is the Energy Of A Photon>": "{"E=hf"}".
 
