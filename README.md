@@ -84,9 +84,8 @@ See the [User Guide](https://fireactions.io/latest/) for installation and config
 
 > ** See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to contribute to Fireactions.
 
-"" ## License Yeshua Terms 
-       
-``` ## ALPHA-CENTARI
+ /* License Yeshua Terms 
+        ALPHA-CENTARI
 
 > See [LICENSE](LICENSE)
 **
