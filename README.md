@@ -90,42 +90,42 @@ See the [User Guide](https://fireactions.io/latest/) for installation and config
 > ## ALPHA-CENTARI
 
 > See [LICENSE](LICENSE)
-***
+**
 
-> ( Hydrogen Fusion Reaction ).
+×× _ ( Hydrogen Fusion Reaction ).
 
-> (2/1H+2/1H→3/2He+1/0n+3.27MeV).
+_ (2/1H+2/1H→3/2He+1/0n+3.27MeV).
 
-> ( Deutirium Fusion ).
+_ ( Deutirium Fusion ).
 
-> (2/1H+2/1H→3/1H+1/1J+4.03MeV).
+_ (2/1H+2/1H→3/1H+1/1J+4.03MeV).
 
-> ( Tritium Fusion )
+_ ( Tritium Fusion )
  
-> (2/1H+3/1H→4/3He+1/1n+17.59MeV).
+_ (2/1H+3/1H→4/3He+1/1n+17.59MeV).
 
-> ( Helium Fusion)
+_ ( Helium Fusion)
 
-> (2/1H+3/2He→4/3He+1/1H+18.3MeV).
+_ (2/1H+3/2He→4/3He+1/1H+18.3MeV).
 
-> --StartSwitch("-'1*");
+_ -- StartSwitch("-'1*");
     
-> --End("*,-'1*);
+_ -- End("*,-'1*);
 
-> ** seqence: "*1*123*"
+_ ** seqence: "*1*123*"
 
-> ## Lï17īD D5 F7ßîœñ: "fusia energy Release ½MaVa²+½MbV²/b=ᐛD-D-fusia carrys 75% energy,
+_ ## Lï17īD D5 F7ßîœñ: "fusia energy Release ½MaVa²+½MbV²/b=ᐛD-D-fusia carrys 75% energy,
 Bio-metric: PnPoe-mgh/kT";
 
- == <=∞=><∞>
+_ == <=∞=><∞>
 
- •• [FirebaseApp.AUTH()
+_ •• [FirebaseApp.AUTH()
 
- ** [getauth()Firebaseapp][authdomain]measure ID
+_ ** [getauth()Firebaseapp][authdomain]measure ID
 
- ## <"ARK-CIRCLE:("400("100")"400">,
+_ ## <"ARK-CIRCLE:("400("100")"400">,
 
- ## "["Z⁰ = = Z¹"]"; "(f)" "Is Freqency", "(Y)" "Energy Of A Photon".
+_ ## "["Z⁰ = = Z¹"]"; "(f)" "Is Freqency", "(Y)" "Energy Of A Photon".
 
-## "<q is the Energy Of A Photon>": "{"E=hf"}".
+_ ## "<q is the Energy Of A Photon>": "{"E=hf"}".
 
