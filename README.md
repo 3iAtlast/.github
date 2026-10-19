@@ -81,39 +81,40 @@ Use "fireactions [command] --help" for more information about a command.
 
 See the [User Guide](https://fireactions.io/latest/) for installation and configuration instructions.
 
-## Contributing
+> ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to contribute to Fireactions.
+> ** See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to contribute to Fireactions.
 
-## License Yeshua Terms 
-       ## ALPHA-CENTARI
+> ## License Yeshua Terms 
+       
+> ## ALPHA-CENTARI
 
-See [LICENSE](LICENSE)
-"""
+> See [LICENSE](LICENSE)
+***
 
-( Hydrogen Fusion Reaction ).
+> ( Hydrogen Fusion Reaction ).
 
-(2/1H+2/1H→3/2He+1/0n+3.27MeV).
+> (2/1H+2/1H→3/2He+1/0n+3.27MeV).
 
-( Deutirium Fusion ).
+> ( Deutirium Fusion ).
 
-(2/1H+2/1H→3/1H+1/1J+4.03MeV).
+> (2/1H+2/1H→3/1H+1/1J+4.03MeV).
 
-( Tritium Fusion )
+> ( Tritium Fusion )
+ 
+> (2/1H+3/1H→4/3He+1/1n+17.59MeV).
 
-(2/1H+3/1H→4/3He+1/1n+17.59MeV).
+> ( Helium Fusion)
 
-( Helium Fusion)
+> (2/1H+3/2He→4/3He+1/1H+18.3MeV).
 
-(2/1H+3/2He→4/3He+1/1H+18.3MeV).
-
- --StartSwitch("-'1*");
+> --StartSwitch("-'1*");
     
- --End("*,-'1*);
+> --End("*,-'1*);
 
- ** seqence: "*1*123*"
+> ** seqence: "*1*123*"
 
- ## Lï17īD D5 F7ßîœñ: "fusia energy Release ½MaVa²+½MbV²/b=ᐛD-D-fusia carrys 75% energy,
+> ## Lï17īD D5 F7ßîœñ: "fusia energy Release ½MaVa²+½MbV²/b=ᐛD-D-fusia carrys 75% energy,
 Bio-metric: PnPoe-mgh/kT";
 
  == <=∞=><∞>
